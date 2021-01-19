@@ -1,3 +1,4 @@
 1st line on master.
 1st on feature branch.
 FIX ISSUE ON ISSUE BRANCH.
+fixed bugs.
