@@ -2,3 +2,4 @@ add a line on master branch.
 add something on test branch.
 merge with no-ff
 modified on master branch.
+add something on feature branch.
